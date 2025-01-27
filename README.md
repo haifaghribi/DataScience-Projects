@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository contains a collection of completed data science projects completed. These projects explore a wide range of data science techniques, including supervised and unsupervised machine learning, data preprocessing, exploratory data analysis (EDA), and feature engineering.
+This repository contains a collection of completed data science projects. These projects explore a wide range of data science techniques, including supervised and unsupervised machine learning, data preprocessing, exploratory data analysis (EDA), and feature engineering.
 
 
 ## 1. Titanic Survival Analysis
